@@ -1,4 +1,4 @@
-id, full_name, biological_gender, nationality
+id, full_name, gender, nationality
 1, John Doe, male, american
 2, Bertus Aafjes, male, dutch
 3, Giorgos Seferis, male, greek
