@@ -1,14 +1,14 @@
-author_id, isbn, author_order, role
-1, 1111111111, 1, writer
-1, 2222222222, 1, writer
-10, 2222222222, 2, writer
-11, 2222222222, 3, writer
-12, 2222222222, 4, writer
-2, 3333333333, 1, writer
-3, 4444444444, 1, writer
-4, 5555555555, 1, writer
-5, 6666666666, 1, writer
-6, 7777777777, 1, writer
-7, 8888888888, 1, writer
-8, 9999999999, 1, writer
-9, 1010101010, 1, writer
+AuthorId,ISBN,AuthorOrder,Role
+1,1111111111,1,writer
+1,2222222222,1,writer
+10,2222222222,2,writer
+11,2222222222,3,writer
+12,2222222222,4,writer
+2,3333333333,1,writer
+3,4444444444,1,writer
+4,5555555555,1,writer
+5,6666666666,1,writer
+6,7777777777,1,writer
+7,8888888888,1,writer
+8,9999999999,1,writer
+9,1010101010,1,writer
