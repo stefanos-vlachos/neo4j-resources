@@ -1,9 +1,9 @@
-id, name, country_of_headquarters
-1, W. W. Norton & Company, england
-2, J.M. Meulenhoff, netherlands
-3, Ibis Editions, jerusalem
-4, Bloomsbury USA, usa
-5, Createspace Independent Publishing Platform, usa
-6, Penguin, usa
-7, Hansebooks, germany
-8, Simon & Schuster, usa
+ID,Name,CountryOfHeadquarters
+1,W. W. Norton & Company,England
+2,J.M. Meulenhoff,Netherlands
+3,Ibis Editions,Jerusalem
+4,Bloomsbury USA,USA
+5,Createspace Independent Publishing Platform,USA
+6,Penguin,USA
+7,Hansebooks,Germany
+8,Simon & Schuster,USA
